@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Task2</string>
+    <string name="description">Knockout based game where the player balances on a ledge and knocks out the opponent with pillows on sticks.</string>
+    <string name="rules">To be disclosed later.</string>
 </resources>
